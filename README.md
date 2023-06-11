@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Elixir, LiveView, Bootstrap, React, MongoDB
+- 📫 How to reach me: vishisht.makkar@gmail.com
+
 <!--
 **v-makkar/v-makkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
