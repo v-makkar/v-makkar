@@ -4,11 +4,11 @@
 - ⚡ Worked with Elixir and LiveView as part of my summer internship (see below)
 - 📫 How to reach me: vishisht.makkar@gmail.com
 
-Blogs:
+### Blogs:
   - [How I got the same offer as Code4GovTech'23 and balanced my end-semester exams during the application process](https://glific.org/but-if-you-try-sometimes/)
   - [My concluding thoughts on interning at Tech4Dev using Elixir, during the summer of '23](https://glific.org/journey-through-an-end-point-internship/)
 
-A summary of my work: [(a PPT, if that's what you'd prefer)](https://docs.google.com/presentation/d/1-2xIRSlgbGq_21ebMeVAJfC4av2V4zHF/edit?usp=sharing&ouid=116564670359371443526&rtpof=true&sd=true):
+### A summary of my work: [(a PPT, if that's what you'd prefer)](https://docs.google.com/presentation/d/1-2xIRSlgbGq_21ebMeVAJfC4av2V4zHF/edit?usp=sharing&ouid=116564670359371443526&rtpof=true&sd=true):
 
 Glific is an app to mainly automate conversation flows for NGOs. My project was the internal dashboard, which helped NGOs summarize and visualize their impact
 
@@ -19,7 +19,7 @@ Glific is an app to mainly automate conversation flows for NGOs. My project was 
 - Developed functionality to filter charts for particular date ranges.
 
 
-Some merged PRs:
+### Some merged PRs:
 - [Filters](https://github.com/glific/glific/pull/3053)
 - [Converting charts in ContEx](https://github.com/glific/glific/pull/2955)
 - [Editing Approved Templates API](https://github.com/glific/glific/pull/2853)
