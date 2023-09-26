@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🌱 I’m interested in working with projects in Elixir and Python
-- ⚡ Worked with Elixir and LiveView as part of my summer internship (see below)
-- 📫 How to reach me: vishisht.makkar@gmail.com
+- ⚡ Worked with Elixir and LiveView as part of my summer internship 
+- 📫 How to reach me: v.makkar.work@gmail.com 
 
 ### Blogs:
   - [How I got the same offer as Code4GovTech'23 and balanced my end-semester exams during the application process](https://glific.org/but-if-you-try-sometimes/)
