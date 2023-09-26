@@ -1,11 +1,12 @@
-![image](https://github.com/v-makkar/v-makkar/assets/87449457/7ec97c7a-ae6d-47aa-b377-50b9014e5f1b)### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m interested in working with projects in Elixir and Python
+- ⚡ Worked with Elixir and LiveView as part of my summer internship (see below)
 - 📫 How to reach me: vishisht.makkar@gmail.com
 
 Blogs:
-  [How I got the same offer as Code4GovTech'23 and balanced my end-semester exams during the application process] (https://glific.org/but-if-you-try-sometimes/)
-  [My concluding thoughts on interning at Tech4Dev using Elixir, during the summer of '23] (https://glific.org/journey-through-an-end-point-internship/)
+  [How I got the same offer as Code4GovTech'23 and balanced my end-semester exams during the application process](https://glific.org/but-if-you-try-sometimes/)
+  [My concluding thoughts on interning at Tech4Dev using Elixir, during the summer of '23](https://glific.org/journey-through-an-end-point-internship/)
 
 A summary of my work: [(a PPT, if that's what you'd prefer)](https://docs.google.com/presentation/d/1-2xIRSlgbGq_21ebMeVAJfC4av2V4zHF/edit?usp=sharing&ouid=116564670359371443526&rtpof=true&sd=true):
 
